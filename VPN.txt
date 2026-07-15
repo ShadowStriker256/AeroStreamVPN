@@ -4,4 +4,4 @@
 #announce: Бесплатный VPN от канала AeroStream
 #support-url: https://t.me/aerostream
 
-trojan://пустышка@no-such-server-999.invalid:443?security=tls&sni=no-such-server-999.invalid&fp=firefox&type=tcp&headerType=none#⚠️+ТЕХРАБОТЫ+⚠️+AeroStream+VPN
+trojan://пустышка@no-such-server-999.invalid:443?security=tls&sni=no-such-server-999.invalid&fp=firefox&type=tcp&headerType=none#⚠️+ТЕХРАБОТЫ+⚠️
